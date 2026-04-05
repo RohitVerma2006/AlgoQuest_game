@@ -1,5 +1,6 @@
 
-View your app in Browser: 
+View my app in Browser: 
+
 (https://gamify-sl65.vercel.app/)
 
 # 🧠⚔️ AlgoQuest
